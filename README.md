@@ -1,5 +1,5 @@
 # first
-![Cover](https://via.placeholder.com/800x200?text=How+Markdown+Works)
+![Cover](20250922_085614.jpg)
 ## Table of Contents
 
 - [Introduction](#your-mission)
